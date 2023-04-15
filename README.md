@@ -1,2 +1,3 @@
 # myfirstproject
-This is my first project forlder
+
+This is my first R project folder to use. 
